@@ -1,0 +1,41 @@
+body {
+  background-image: linear-gradient(
+      to top,
+      rgba(46, 49, 65, 0.6),
+      rgba(46, 49, 65, 0.6)
+    ),
+    url("../../images/bg-emanuela.jpg");
+}
+
+@media screen and (max-width: 1280px) {
+  #banner {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.6),
+        rgba(46, 49, 65, 0.6)
+      ),
+      url("../../images/bg-emanuela.jpg");
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #wrapper > header {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.6),
+        rgba(46, 49, 65, 0.6)
+      ),
+      url("../../images/bg-emanuela.jpg");
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #footer {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.6),
+        rgba(46, 49, 65, 0.6)
+      ),
+      url("../../images/bg-emanuela.jpg");
+  }
+}

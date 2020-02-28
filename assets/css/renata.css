@@ -1,0 +1,41 @@
+body {
+  background-image: linear-gradient(
+      to top,
+      rgba(46, 49, 65, 0.7),
+      rgba(46, 49, 65, 0.7)
+    ),
+    url("../../images/bg-renata.jpg");
+}
+
+@media screen and (max-width: 1280px) {
+  #banner {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.7),
+        rgba(46, 49, 65, 0.7)
+      ),
+      url("../../images/bg-renata.jpg");
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #wrapper > header {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.7),
+        rgba(46, 49, 65, 0.7)
+      ),
+      url("../../images/bg-renata.jpg");
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #footer {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.7),
+        rgba(46, 49, 65, 0.7)
+      ),
+      url("../../images/bg-renata.jpg");
+  }
+}

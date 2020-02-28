@@ -1,0 +1,41 @@
+body {
+  background-image: linear-gradient(
+      to top,
+      rgba(46, 49, 65, 0.8),
+      rgba(46, 49, 65, 0.8)
+    ),
+    url("../../psicologia/milenamendonca/images/bg-milena.jpg");
+}
+
+@media screen and (max-width: 1280px) {
+  #banner {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.8),
+        rgba(46, 49, 65, 0.8)
+      ),
+      url("../../psicologia/milenamendonca/images/bg-milena.jpg");
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #wrapper > header {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.8),
+        rgba(46, 49, 65, 0.8)
+      ),
+      url("../../psicologia/milenamendonca/images/bg-milena.jpg");
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #footer {
+    background-image: linear-gradient(
+        to top,
+        rgba(46, 49, 65, 0.8),
+        rgba(46, 49, 65, 0.8)
+      ),
+      url("../../psicologia/milenamendonca/images/bg-milena.jpg");
+  }
+}
